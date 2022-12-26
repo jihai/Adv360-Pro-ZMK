@@ -1,5 +1,13 @@
 # ADV360-PRO-ZMK
 
+# Change List
+
+- FN Layer
+  - HHKB Mapping 
+- Base Layer
+  - Thumb
+  - Pinky
+  - Bottom Line
 ## To build Firmware in GitHub Actions
 
 ### Setup
